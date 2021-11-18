@@ -5,7 +5,7 @@ Naprogramujte funkci pro řešení SSP. Můžete využít předchystaný soubor 
 Nápověda:
 1. Hlavní funkce SSP (volá funkce 2 a 3)
 2. Funkce pro vytvoření matice překryvů
-3. Funkce pro výpočet matice překryvů.
+3. Funkce pro výpočet matice překryvů
 
 ### Stažení podkladů z GitHub
 <details>
